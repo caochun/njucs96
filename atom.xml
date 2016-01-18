@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[计男故里]]></title>
+  <subtitle><![CDATA[南大96计科混混群]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://njucs96.nemoworks.info/"/>
+  <updated>2016-01-13T09:32:05.000Z</updated>
+  <id>http://njucs96.nemoworks.info/</id>
+  
+  <author>
+    <name><![CDATA[NJUCS96]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[2016年大聚会]]></title>
+    <link href="http://njucs96.nemoworks.info/2016/01/09/Reunion2016/"/>
+    <id>http://njucs96.nemoworks.info/2016/01/09/Reunion2016/</id>
+    <published>2016-01-09T15:48:07.000Z</published>
+    <updated>2016-01-13T09:32:05.000Z</updated>
+    <content type="html"><![CDATA[<p>兹定于2016年1月15日于南京聚会，具体如下：</p>
+<h2 id="u65F6_u95F4"><a href="#u65F6_u95F4" class="headerlink" title="时间"></a>时间</h2><p>2016年1月15日</p>
+<h2 id="u5730_u70B9"><a href="#u5730_u70B9" class="headerlink" title="地点"></a>地点</h2><p>南京某地（待定）</p>
+<h2 id="u4EBA_u7269"><a href="#u4EBA_u7269" class="headerlink" title="人物"></a>人物</h2><p>南大混混群（计男故里裙）成员</p>
+<h2 id="u53CB_u60C5_u8D5E_u52A9"><a href="#u53CB_u60C5_u8D5E_u52A9" class="headerlink" title="友情赞助"></a>友情赞助</h2><p>@唐叉总</p>
+<h2 id="u7EDF_u8BA1_u6570_u636E"><a href="#u7EDF_u8BA1_u6570_u636E" class="headerlink" title="统计数据"></a>统计数据</h2><table>
+<thead>
+<tr>
+<th>混混</th>
+<th>抵宁时间</th>
+<th>着陆地点</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>六石</td>
+<td>下午5点</td>
+<td>南站</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>兹定于2016年1月15日于南京聚会，具体如下：</p>
+<h2 id="u65F6_u95F4"><a href="#u65F6_u95F4" class="headerlink" title="时间"></a>时间</h2><p>2016年1月15日</p>
+<h2 i]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[欢迎各位南大混混]]></title>
+    <link href="http://njucs96.nemoworks.info/2016/01/09/Welcome/"/>
+    <id>http://njucs96.nemoworks.info/2016/01/09/Welcome/</id>
+    <published>2016-01-08T16:19:45.000Z</published>
+    <updated>2016-01-13T09:32:05.000Z</updated>
+    <content type="html"><![CDATA[<p>欢迎各位混混，请各自报名，以便“日”后联系。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>欢迎各位混混，请各自报名，以便“日”后联系。</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
